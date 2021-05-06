@@ -24,4 +24,4 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 [nodejs]: https://nodejs.org/en/
 [reactjs]: https://reactjs.org/
 [reactnative]: https://facebook.github.io/react-native/
-[reactnative]: https://expo.io/
+[expo]: https://expo.io/
